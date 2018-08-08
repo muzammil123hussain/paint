@@ -1,0 +1,42 @@
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+C:\Users\khadija\Documents\Visual Studio 2008\Projects\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
+E:\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+E:\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+E:\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+E:\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+E:\MsPaint\MsPaint\obj\Debug\ResolveAssemblyReference.cache
+E:\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
+E:\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+E:\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+\\server1\Students New Data Storage\tts(11-1) sept\C sharp\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+\\server1\Students New Data Storage\tts(11-1) sept\C sharp\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+C:\Users\mehroosha.APTECHNN\Desktop\Mehroosha\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csprojResolveAssemblyReference.cache
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+Z:\current data\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
